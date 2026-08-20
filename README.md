@@ -10,10 +10,10 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | :---: | :--- | :---: | :--- |
 | **01** | Tugas 01 - [pengenalan CSS]  | `Completed` | `./tugas-01/` |
 | **02** | Tugas 02 - [Selector, Declaration, Property dan Value CSS]  | `Completed` | `./tugas-02/` |
-| **03** | Tugas 03 - [Topik Tugas 3]  | `Completed` | `./tugas-03/` |
-| **04** | Tugas 04 - [Topik Tugas 4]  | `Pending` | `./tugas-04/` |
-| **05** | Tugas 05 - [Topik Tugas 5]  | `Pending` | `./tugas-05/` |
-| **06** | Tugas 06 - [Topik Tugas 6]  | `Pending` | `./tugas-06/` |
+| **03** | Tugas 03 - [Cara Penulisan Selector, Declaration, Property dan Value CSS]  | `Completed` | `./tugas-03/` |
+| **04** | Tugas 04 - [Case Sensitivity dan White Space]  | `completed` | `./tugas-04/` |
+| **05** | Tugas 05 - [Membuat Komentar]  | `completed` | `./tugas-05/` |
+| **06** | Tugas 06 - [Cara Menginput Kode CSS Pada File HTML]  | `completed` | `./tugas-06/` |
 | **07** | Tugas 07 - [Topik Tugas 7]  | `Pending` | `./tugas-07/` |
 | **08** | Tugas 08 - [Topik Tugas 8]  | `Pending` | `./tugas-08/` |
 | **09** | Tugas 09 - [Topik Tugas 9]  | `Pending` | `./tugas-09/` |
