@@ -39,7 +39,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 
 ## 🛠️ Teknologi / Tools yang Digunakan
 
-* **Materi**: Dasar-Dasar HTML & CSS
+* **Materi**: Learning Basic CSS to Advance
 * **Tools**: Git, GitHub, VS Code / Web Browser
 
 1. **Clone repositori ini:**
