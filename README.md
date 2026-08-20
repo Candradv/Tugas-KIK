@@ -1,6 +1,6 @@
-# 📚 Dokumentasi Tugas KIK (No. 01 - 26)
+# 📚 Dokumentasi Tugas KIK (No. 01 - 27)
 
-Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelajaran KIK yang dikerjakan secara bertahap mulai dari nomor tugas **01 hingga 26**.
+Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelajaran KIK yang dikerjakan secara bertahap mulai dari nomor tugas **01 hingga 27**.
 
 ---
 
@@ -9,8 +9,8 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | No | Nama Tugas / Topik | Status | Path / File |
 | :---: | :--- | :---: | :--- |
 | **01** | Tugas 01 - [pengenalan CSS]  | `Completed` | `./tugas-01/` |
-| **02** | Tugas 02 - [Selector, Declaration, Property dan Value CSS]  | `Complete` | `./tugas-02/` |
-| **03** | Tugas 03 - [Topik Tugas 3]  | `Pending` | `./tugas-03/` |
+| **02** | Tugas 02 - [Selector, Declaration, Property dan Value CSS]  | `Completed` | `./tugas-02/` |
+| **03** | Tugas 03 - [Topik Tugas 3]  | `Completed` | `./tugas-03/` |
 | **04** | Tugas 04 - [Topik Tugas 4]  | `Pending` | `./tugas-04/` |
 | **05** | Tugas 05 - [Topik Tugas 5]  | `Pending` | `./tugas-05/` |
 | **06** | Tugas 06 - [Topik Tugas 6]  | `Pending` | `./tugas-06/` |
