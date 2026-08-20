@@ -14,7 +14,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | **04** | Tugas 04 - [Case Sensitivity dan White Space]  | `completed` | `./tugas-04/` |
 | **05** | Tugas 05 - [Membuat Komentar]  | `completed` | `./tugas-05/` |
 | **06** | Tugas 06 - [Cara Menginput Kode CSS Pada File HTML]  | `completed` | `./tugas-06/` |
-| **07** | Tugas 07 - [Topik Tugas 7]  | `Pending` | `./tugas-07/` |
+| **07** | Tugas 07 - [CSS Media Type]  | `completed` | `./tugas-07/` |
 | **08** | Tugas 08 - [Topik Tugas 8]  | `Pending` | `./tugas-08/` |
 | **09** | Tugas 09 - [Topik Tugas 9]  | `Pending` | `./tugas-09/` |
 | **10** | Tugas 10 - [Topik Tugas 10] | `Pending` | `./tugas-10/` |
