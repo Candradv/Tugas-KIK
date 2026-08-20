@@ -9,7 +9,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | No | Nama Tugas / Topik | Status | Path / File |
 | :---: | :--- | :---: | :--- |
 | **01** | Tugas 01 - [pengenalan CSS]  | `Completed` | `./tugas-01/` |
-| **02** | Tugas 02 - [Praktik Selector, Declaration, Property dan Value CSS]  | `Complete` | `./tugas-02/` |
+| **02** | Tugas 02 - [Selector, Declaration, Property dan Value CSS]  | `Complete` | `./tugas-02/` |
 | **03** | Tugas 03 - [Topik Tugas 3]  | `Pending` | `./tugas-03/` |
 | **04** | Tugas 04 - [Topik Tugas 4]  | `Pending` | `./tugas-04/` |
 | **05** | Tugas 05 - [Topik Tugas 5]  | `Pending` | `./tugas-05/` |
