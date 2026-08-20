@@ -1,0 +1,16 @@
+.judul{
+    text-decoration:overline;
+    color: rgb(192, 14, 112);
+}
+
+.paragraf-1{
+    font-size: 18px;
+    color: rgb(12, 37, 230);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraf-2{
+    font-size: 18px;
+    color: rgb(61, 245, 236);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
