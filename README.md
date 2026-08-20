@@ -34,7 +34,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | **24** | Tugas 24 - [Topik Tugas 24] | `Pending` | `./tugas-24/` |
 | **25** | Tugas 25 - [Topik Tugas 25] | `Pending` | `./tugas-25/` |
 | **26** | Tugas 26 - [Topik Tugas 26] | `Pending` | `./tugas-26/` |
-| **27** | Tugas 27 - [Topik Tugas 26] | `Pending` | `./tugas-27/` |
+| **27** | Tugas 27 - [Topik Tugas 27] | `Pending` | `./tugas-27/` |
 ---
 
 ## 🛠️ Teknologi / Tools yang Digunakan
