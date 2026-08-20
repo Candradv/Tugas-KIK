@@ -17,7 +17,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | **07** | Tugas 07 - [CSS Media Type]  | `completed` | `./tugas-07/` |
 | **08** | Tugas 08 - [Latihan 1 CSS]  | `completed` | `./tugas-08/` |
 | **09** | Tugas 09 - [Universal Selector]  | `completed` | `./tugas-09/` |
-| **10** | Tugas 10 - [Topik Tugas 10] | `Pending` | `./tugas-10/` |
+| **10** | Tugas 10 - [Element Selector] | `completed` | `./tugas-10/` |
 | **11** | Tugas 11 - [Topik Tugas 11] | `Pending` | `./tugas-11/` |
 | **12** | Tugas 12 - [Topik Tugas 12] | `Pending` | `./tugas-12/` |
 | **13** | Tugas 13 - [Topik Tugas 13] | `Pending` | `./tugas-13/` |
