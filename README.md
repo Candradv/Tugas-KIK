@@ -21,7 +21,7 @@ Repositori ini berisi kumpulan tugas, skrip, dan dokumentasi praktik mata pelaja
 | **11** | Tugas 11 - [Class Selector] | `completed` | `./tugas-11/` |
 | **12** | Tugas 12 - [ID Selector] | `completed` | `./tugas-12/` |
 | **13** | Tugas 13 - [Attribute Selector] | `completed` | `./tugas-13/` |
-| **14** | Tugas 14 - [Topik Tugas 14] | `Pending` | `./tugas-14/` |
+| **14** | Tugas 14 - [Group Selector] | `completed` | `./tugas-14/` |
 | **15** | Tugas 15 - [Topik Tugas 15] | `Pending` | `./tugas-15/` |
 | **16** | Tugas 16 - [Topik Tugas 16] | `Pending` | `./tugas-16/` |
 | **17** | Tugas 17 - [Topik Tugas 17] | `Pending` | `./tugas-17/` |
